@@ -1,0 +1,43 @@
+body{
+    background: rgba(250, 202, 8, 0.214);
+}
+.whole{
+    display:inline-block;
+    padding: 20px;
+    background: rgba(128, 128, 128, 0.486);
+    width:100%;
+}
+.first{
+    border:1px solid;
+
+}
+.first span{
+    padding:5px;
+   
+}
+.button{
+    border:1px solid;
+   padding:5px 20px 5px ;
+   
+}
+button{
+    display:inline-block;
+    margin-right:20px;
+    
+}
+
+.text{
+    background: #000000a4;
+    color: white;
+}
+
+.monster{
+    display:none;
+    border:3px solid white;
+    color:white;
+    background: red;
+    padding:10px;
+}
+.monster span{
+    margin-right:30px;
+}
